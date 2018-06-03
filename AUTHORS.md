@@ -1,4 +1,5 @@
-# Minetest documentation authors  
+Minetest documentation authors    
+==============================   
   
 Installation and configuration Minetest client/server for 3d printing.  
   
