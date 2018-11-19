@@ -1,0 +1,23 @@
+1/ Répertoire des mods/
+
+util01@station02:~$ cd JEUX/MINETEST.v416/minetest/mods/
+
+
+2/ Téléchargement du mod.
+
+util01@station02:~/JEUX/MINETEST.v416/minetest/mods$ git clone https://github.com/kaeza/mt-firearms.git
+Clonage dans 'mt-firearms'...
+remote: Counting objects: 271, done.
+remote: Total 271 (delta 0), reused 0 (delta 0), pack-reused 271
+Réception d'objets: 100% (271/271), 206.76 KiB | 51.00 KiB/s, fait.
+Résolution des deltas: 100% (124/124), fait.
+Vérification de la connectivité... fait.
+util01@station02:~/JEUX/MINETEST.v416/minetest/mods$ 
+
+
+
+util01@station02:~/JEUX/MINETEST.v416/minetest/mods$ cd ../bin/
+util01@station02:~/JEUX/MINETEST.v416/minetest/bin$ 
+
+
+Firearms [0.2.0] [firearms]
